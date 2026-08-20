@@ -1,4 +1,4 @@
-# Hi there 👋 I'm grade 5.
+# Hi there 👋 I'm grade 5. I Want B300 GPU.
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDODHIMvg)](https://www.git-ranker.com)
 
