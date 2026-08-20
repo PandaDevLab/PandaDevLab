@@ -15,8 +15,6 @@ friend: <a href="https://github.com/danidevlab">danidevlab</a>
   <li>C++</li>
   <li>Markdown</li>
   <li>XML</li>
-  <li>YML</li>
-  <li>SQL</li>
 </ul>
 
 ## CONTACT
